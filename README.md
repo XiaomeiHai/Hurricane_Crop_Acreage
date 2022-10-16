@@ -7,7 +7,7 @@ Repository for work on predicting crop acreage damages from hurricanes
 ## Useful Links
 
 
-Crop Acreage Data
+Crop Acreage Data:
 https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index
 
 
