@@ -11,6 +11,6 @@ https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requ
 
 Historical Hurricane Data: https://www.nhc.noaa.gov/data/#hurdat
 
-US County Boundaries: https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name
+US County Boundaries: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.2018.html#list-tab-5OPSAPSXDWR507ES5B
 
 
