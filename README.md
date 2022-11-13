@@ -15,3 +15,5 @@ US County Boundaries: https://www.census.gov/geographies/mapping-files/time-seri
 
 Hurdat2Parser: This is a python package that is pretty useful for analyzing hurdat data, but I couldn't get it to output a shapefile :(
 https://pypi.org/project/hurdat2parser/
+
+Example NOAA Forecast Format: https://www.nhc.noaa.gov/archive/2017/IRMA.shtml?
