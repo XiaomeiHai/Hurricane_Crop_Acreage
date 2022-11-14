@@ -3,10 +3,10 @@
 library(dplyr)
 library(sf)
 
-# setwd("tek/TeamAccenture") # Change your path
+# setwd("RWorkshop-at-UF/Hurricane_Crop_Acreage/Code") # Change your path
 
 # Original Shape data source: https://www2.census.gov/geo/tiger/GENZ2018/shp/
-df = sf::st_read("../Data/cb_2018_us_county_500k.shp")
+df = sf::st_read("../Data/cb_2018_us_county_500k.shp") # Change path if necessary
 # Check the columns and their type
 str(df)
 
