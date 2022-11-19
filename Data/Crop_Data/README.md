@@ -9,12 +9,12 @@ I stored it as parquet because GitHub has storage rules, and also this data is s
 
 Reading parquet from GitHub is basically the same as csv, except you use the read parquet function in pandas. See example below
 
-'''
+```
 import pandas as pd
 
 df_2012 = pd.read_parquet('https://github.com/JackOgozaly/Hurricane_Crop_Acreage/blob/main/Data/Crop_Data/df_2012.parquet.gzip?raw=true')
 
-'''
+```
 
 
 
