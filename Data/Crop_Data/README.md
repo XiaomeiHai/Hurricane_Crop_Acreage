@@ -14,3 +14,6 @@ import pandas as pd
 df_2012 = pd.read_parquet('https://github.com/JackOgozaly/Hurricane_Crop_Acreage/blob/main/Data/Crop_Data/df_2012.parquet.gzip?raw=true')
 
 ```
+
+Oh, if you might need to install pyarrow. See link below for details.
+https://arrow.apache.org/docs/python/install.html
