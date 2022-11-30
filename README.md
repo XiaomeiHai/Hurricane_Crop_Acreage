@@ -17,3 +17,7 @@ Hurdat2Parser: This is a python package that is pretty useful for analyzing hurd
 https://pypi.org/project/hurdat2parser/
 
 Example NOAA Forecast Format: https://www.nhc.noaa.gov/archive/2017/IRMA.shtml?
+
+UF Report on hurricane ian crop damage: https://fred.ifas.ufl.edu/media/fredifasufledu/economic-impact-analysis/reports/FRE-Hurricane-Ian-Report.pdf
+
+Cause of Loss Datasets: https://www.rma.usda.gov/SummaryOfBusiness/CauseOfLoss
