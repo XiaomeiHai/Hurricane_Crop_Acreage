@@ -23,7 +23,7 @@ cause_of_loss_0.info(verbose=True, show_counts=True) #Print a concise summary of
 
 cause_of_loss_0.index #The index (row labels) of the DataFrame.
 
-cause_of_loss_0.isna().sum() #a summary 
+cause_of_loss_0.isna().sum() #calculate null value in the dataset
 
 for_plot = cause_of_loss_0.commodity_name.value_counts()
 for_plot = pd.DataFrame(for_plot)
